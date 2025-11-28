@@ -1,0 +1,110 @@
+[
+  {
+    "id": "965daf34-516c-4d00-8df1-9c03041828a9",
+    "item_name": "강아지",
+    "category": "기타",
+    "found_date": "2025-11-11",
+    "found_time": "10:18",
+    "location": "학교",
+    "description": "귀여움",
+    "status": "습득",
+    "image_path": "uploads/ed6dd84b-1e85-4ab3-9280-624a662645c5.jpg",
+    "created_at": "2025-11-11 10:21:06",
+    "comments": [
+      {
+        "id": "e5fd44ca-d245-4ec3-8fbf-6104be8c4298",
+        "content": "우와 귀엽다",
+        "author": "20501 고갱 ",
+        "created_at": "2025-11-11 10:21:32"
+      },
+      {
+        "id": "03e8252a-270f-4c3e-a3a5-27a1ebe2a7a0",
+        "content": "키작은 이정섭입니다",
+        "author": "키작은 이정섭",
+        "created_at": "2025-11-11 10:22:09"
+      }
+    ]
+  },
+  {
+    "id": "98487352-48af-4abf-82c2-0ff5aab265eb",
+    "item_name": "괴물쥐",
+    "category": "기타",
+    "found_date": "2025-11-11",
+    "found_time": "10:23",
+    "location": "소환사의 협곡",
+    "description": "원딜러",
+    "status": "습득",
+    "image_path": "uploads/406a7496-c033-4ed9-9810-232a7750c47c.jpg",
+    "created_at": "2025-11-11 10:27:37",
+    "comments": [
+      {
+        "id": "b41c58ba-7da3-469e-814f-911df4ed8de2",
+        "content": "개현준~~",
+        "author": "ㄴㄴ",
+        "created_at": "2025-11-11 10:37:52"
+      }
+    ]
+  },
+  {
+    "id": "b752ba2e-63ad-437a-b0d0-e8898e811f02",
+    "item_name": "내여친",
+    "category": "기타",
+    "found_date": "2025-11-11",
+    "found_time": "10:28",
+    "location": "토고",
+    "description": "예쁘다",
+    "status": "습득",
+    "image_path": "uploads/235c78bc-ab7b-4507-874f-71790da76a46.jpeg",
+    "created_at": "2025-11-11 10:37:10",
+    "comments": [
+      {
+        "id": "3e50bc85-74ac-4b60-86b4-25d9c05218d8",
+        "content": "제 여친이에요 돌려주세요",
+        "author": "20501고건우",
+        "created_at": "2025-11-11 10:38:21"
+      },
+      {
+        "id": "31811225-af9b-4900-8d34-38141b4c8fb6",
+        "content": "ㅋㅋ 내가 스틸함",
+        "author": "2080x이정섭",
+        "created_at": "2025-11-11 10:38:36"
+      },
+      {
+        "id": "c3bb30a1-d543-409a-9aa5-d63bf126d87a",
+        "content": "제 여친입니다 건들지마세요",
+        "author": "20513 최현준",
+        "created_at": "2025-11-11 10:38:58"
+      },
+      {
+        "id": "696b4abd-5990-4827-ba78-f65c4b0c1989",
+        "content": "저보다 어깨가 넓어요 부러워요 루우우우 뿌잉뿌잉 뽀잉 뿌잉데헷>..<",
+        "author": "205XX 최X준",
+        "created_at": "2025-11-11 10:40:55"
+      },
+      {
+        "id": "1c0c2857-9499-4742-9d10-142fd63a88d4",
+        "content": "안녕하세요 최현준입니다 도와주세요",
+        "author": "205XX 문X원",
+        "created_at": "2025-11-11 10:41:55"
+      },
+      {
+        "id": "b1fae04e-ee3e-485c-873e-a665bb772beb",
+        "content": "اجمل كتف لا يقهر",
+        "author": "تشوي هيون-جون",
+        "created_at": "2025-11-11 10:43:28"
+      },
+      {
+        "id": "63115e8d-bc28-42f3-931d-4e623f6fba86",
+        "content": "我的肩膀天下無敵",
+        "author": "崔賢俊",
+        "created_at": "2025-11-11 10:43:57"
+      },
+      {
+        "id": "40fc0ffd-0d30-408a-8446-12d8147caddd",
+        "content": "Meine Schulter ist unschlagbar.",
+        "author": "Choi Hyun-jun.",
+        "created_at": "2025-11-11 10:44:50"
+      }
+    ]
+  }
+]
